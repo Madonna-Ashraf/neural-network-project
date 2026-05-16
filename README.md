@@ -9,7 +9,7 @@ https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 |------------|---------------|---------|---------------|
 |Experiment 1|     0.0025    |   0.3   |      ~70%     |
 |Experiment 2|     0.001     |   0.3   |      ~68%     |
-|Experiment 2|     0.005     |   0.3   |      ~74%     |
+
 ## Instructions for Running the Project
 Download the Project file and Install Required Libraries
 ```
