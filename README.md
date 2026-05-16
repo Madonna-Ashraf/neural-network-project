@@ -13,6 +13,7 @@ https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 ## Instructions for Running the Project
 1)Download the Project
 2)Install Required Libraries
+```
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -21,3 +22,4 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 import matplotlib.pyplot as plt
+```
