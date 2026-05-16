@@ -12,6 +12,7 @@ https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 |Experiment 2|     0.005     |   0.3   |      ~74%     |
 ## Instructions for Running the Project
 1)Download the Project
+\n
 2)Install Required Libraries
 ```
 import pandas as pd
